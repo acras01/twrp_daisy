@@ -1,2 +1,2 @@
-add_lunch_combo omni_sakura-userdebug
-add_lunch_combo omni_sakura-eng
+add_lunch_combo omni_daisy-userdebug
+add_lunch_combo omni_daisy-eng
